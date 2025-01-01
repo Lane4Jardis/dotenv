@@ -1,6 +1,5 @@
 {
   "name": "jardis/dotenv",
-  "version": "1.0.0",
   "description": "DotEnv is a .env file loader for public and protected environments",
   "type": "library",
   "license": "MIT",
