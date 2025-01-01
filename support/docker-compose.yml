@@ -1,0 +1,6 @@
+services:
+  phpcli:
+    image: lane4jardis/phpcli:${PHP_VERSION}
+    container_name: phpcli
+    volumes:
+        - '.././:/app'
